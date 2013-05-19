@@ -572,6 +572,9 @@
     <!-- NEW STUFF -->
     <!-- ======================================================================================= -->
 
+    <!-- Device specific settings -->
+    <string name="advanced_settings_title">Device options</string>
+
     <!-- Button label for generic cancel action -->
     <string name="cancel">Cancel</string>
 
